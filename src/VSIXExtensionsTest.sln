@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestVSIXProject1", "TestVSIXProject1\TestVSIXProject1.csproj", "{E13BACAE-D74B-48AE-B5FE-6F5792FCA042}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F60BDDD4-268F-4D2E-9DD5-67D3EFACB3DE}"
+	ProjectSection(SolutionItems) = preProject
+		Nuget.config = Nuget.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E13BACAE-D74B-48AE-B5FE-6F5792FCA042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E13BACAE-D74B-48AE-B5FE-6F5792FCA042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E13BACAE-D74B-48AE-B5FE-6F5792FCA042}.Debug|x86.ActiveCfg = Debug|x86
+		{E13BACAE-D74B-48AE-B5FE-6F5792FCA042}.Debug|x86.Build.0 = Debug|x86
+		{E13BACAE-D74B-48AE-B5FE-6F5792FCA042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E13BACAE-D74B-48AE-B5FE-6F5792FCA042}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E13BACAE-D74B-48AE-B5FE-6F5792FCA042}.Release|x86.ActiveCfg = Release|x86
+		{E13BACAE-D74B-48AE-B5FE-6F5792FCA042}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F81AA6A-4023-4F9C-AD56-DD0039D09E17}
+	EndGlobalSection
+EndGlobal
